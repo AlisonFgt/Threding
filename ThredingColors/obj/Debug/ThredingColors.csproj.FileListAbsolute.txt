@@ -1,0 +1,10 @@
+C:\Users\Alison\source\repos\ThredingColors\ThredingColors\obj\Debug\ThredingColors.Form1.resources
+C:\Users\Alison\source\repos\ThredingColors\ThredingColors\obj\Debug\ThredingColors.Properties.Resources.resources
+C:\Users\Alison\source\repos\ThredingColors\ThredingColors\obj\Debug\ThredingColors.csproj.GenerateResource.cache
+C:\Users\Alison\source\repos\ThredingColors\ThredingColors\obj\Debug\ThredingColors.csproj.CoreCompileInputs.cache
+C:\Users\Alison\source\repos\ThredingColors\ThredingColors\bin\Debug\ThredingColors.exe.config
+C:\Users\Alison\source\repos\ThredingColors\ThredingColors\bin\Debug\ThredingColors.exe
+C:\Users\Alison\source\repos\ThredingColors\ThredingColors\bin\Debug\ThredingColors.pdb
+C:\Users\Alison\source\repos\ThredingColors\ThredingColors\obj\Debug\ThredingColors.exe
+C:\Users\Alison\source\repos\ThredingColors\ThredingColors\obj\Debug\ThredingColors.pdb
+C:\Users\Alison\source\repos\ThredingColors\ThredingColors\obj\Debug\ThredingColors.csprojAssemblyReference.cache
